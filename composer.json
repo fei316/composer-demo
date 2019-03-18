@@ -1,0 +1,16 @@
+{
+    "name": "fei316/composer-demo",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dengfei",
+            "email": "578796009@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
